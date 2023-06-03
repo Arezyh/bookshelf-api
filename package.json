@@ -1,0 +1,19 @@
+{
+  "name": "bookshelf-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "devDependencies": {
+    "eslint": "^8.41.0"
+  },
+  "dependencies": {
+    "@hapi/hapi": "^21.3.2",
+    "nanoid": "^3.3.6"
+  }
+}
