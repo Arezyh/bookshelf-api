@@ -1,3 +1,3 @@
 # bookshelf-api-Dicoding-Back-end-Developer-Final-Project
 
-bookshelf-api adalah ujian akhir di kelas Back-end Developer yang diselenggarakan oleh DICODING Indonesia.
+bookshelf-api is last submisson for back-end developer class in Dicoding Indonesia.
