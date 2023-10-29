@@ -1,3 +1,4 @@
 # bookshelf-api-Dicoding-Back-end-Developer-Final-Project
 
-bookshelf-api is last submisson for back-end developer class in Dicoding Indonesia.
+This is my final project for my Back End Developer course in Dicoding.
+The main feature of this project is... I forgot.
